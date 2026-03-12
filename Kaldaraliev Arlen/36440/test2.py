@@ -12,4 +12,5 @@ a = 4.5
 
 print(str(int(a)))
       
+
 result = a + 1
